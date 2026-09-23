@@ -31,4 +31,10 @@ Projeto desenvolvido em Python para monitorar informações e recursos de um com
 Instale a biblioteca necessária:
 
 ```bash
+## Demonstração
+
+O programa também possui um modo de monitoramento em tempo real:
+
+![Monitoramento em tempo real](monitoramento.png)
+
 pip install psutil
